@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kokimoriguchi&theme=default)
 
 ![](https://komarev.com/ghpvc/?username=kokimoriguchie&color=dc143c)
+
+https://github-profile-trophy.vercel.app/?username=kokimoriguchi=oldie

@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=kokimoriguchie&color=dc143c)
 
-https://github-profile-trophy.vercel.app/?username=kokimoriguchi=oldie
+![](https://github-profile-trophy.vercel.app/?username=kokimoriguchi=oldie)

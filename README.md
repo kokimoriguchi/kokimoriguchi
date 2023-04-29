@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![kokis GitHub stats](https://github-readme-stats.vercel.app/api?username=kokimoriguchi&theme=vue-dark&show_icons=true)](https://github.com/kokimoriguchi/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kokimoriguchi)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kokimoriguchi&size_weight=0.5&count_weight=0.5)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kokimoriguchi&size_weight=0.5&count_weight=0.5)

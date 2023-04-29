@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ![kokis GitHub stats](https://github-readme-stats.vercel.app/api?username=kokimoriguchi&theme=apprentice&show_icons=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kokimoriguchi&theme=default&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kokimoriguchi&theme=default)
-
+![](https://komarev.com/ghpvc/?username=kokimoriguchie&color=dc143c)

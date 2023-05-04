@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+## 🌱 I’m currently learning React,Ruby,Rails,and Docker!
 <!--
 **kokimoriguchi/kokimoriguchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

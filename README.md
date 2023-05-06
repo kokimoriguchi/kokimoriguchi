@@ -27,24 +27,24 @@ Here are some ideas to get you started:
   </summary>
   <div>
 
-    - 1冊ですべて身につくHTML&CSSとWebデザイン入門講座
-    - JavaScriptPrimer迷わないための入門書
-    - 本当によくわかるJavaScriptの教科書
-    - モダンJavaScriptの基本から始めるReact実践の教科書
-    - Reactハンズオンラーニング
-    - プロを目指す人のためのRuby入門
-    - 独習Ruby on Rails
-    - オブジェクト指向設計実践ガイド
-    - 達人に学ぶDB設計徹底指南書
-    - SQLゼロからはじめるデータベース操作
-    - 仕組みと使い方がわかるDocker&Kubernetesのきほんのきほん
-    - Docker&仮想サーバー
-    - 新しいlinuxの教科書
-    - もう怖くないLinuxコマンド。手を動かしながらLinuxコマンドラインを5日間で身に付けよう
-    - Amazon Web Services基礎からのネットワーク&サーバー構築改訂４版
-    - AWS：ゼロから実践するAmazon Web Services。手を動かしながらインフラの基礎を習得
-    - Git： もう怖くないGit！チーム開発で必要なGitを完全マスター
-    - その他無料動画視聴
+    ・ 1冊ですべて身につくHTML&CSSとWebデザイン入門講座
+    ・ JavaScriptPrimer迷わないための入門書
+    ・ 本当によくわかるJavaScriptの教科書
+    ・ モダンJavaScriptの基本から始めるReact実践の教科書
+    ・ Reactハンズオンラーニング
+    ・ プロを目指す人のためのRuby入門
+    ・ 独習Ruby on Rails
+    ・ オブジェクト指向設計実践ガイド
+    ・ 達人に学ぶDB設計徹底指南書
+    ・ SQLゼロからはじめるデータベース操作
+    ・ 仕組みと使い方がわかるDocker&Kubernetesのきほんのきほん
+    ・ Docker&仮想サーバー
+    ・ 新しいlinuxの教科書
+    ・ もう怖くないLinuxコマンド。手を動かしながらLinuxコマンドラインを5日間で身に付けよう
+    ・ Amazon Web Services基礎からのネットワーク&サーバー構築改訂４版
+    ・ AWS：ゼロから実践するAmazon Web Services。手を動かしながらインフラの基礎を習得
+    ・ Git： もう怖くないGit！チーム開発で必要なGitを完全マスター
+    ・ その他無料動画視聴
 
   </div>
 </details>

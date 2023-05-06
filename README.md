@@ -26,6 +26,7 @@ Here are some ideas to get you started:
     学習教材一覧
   </summary>
   <div>
+    
     ・ 1冊ですべて身につくHTML&CSSとWebデザイン入門講座
     ・ JavaScriptPrimer迷わないための入門書
     ・ 本当によくわかるJavaScriptの教科書
@@ -44,6 +45,7 @@ Here are some ideas to get you started:
     ・ AWS：ゼロから実践するAmazon Web Services。手を動かしながらインフラの基礎を習得
     ・ Git： もう怖くないGit！チーム開発で必要なGitを完全マスター
     ・ その他無料動画視聴
+    
   </div>
 </details>
 
@@ -52,7 +54,9 @@ Here are some ideas to get you started:
     学習時間
   </summary>
   <div>
+    
     ・total時間
+    
   </div>
 </details>
 
